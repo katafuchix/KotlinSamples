@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KotlinSamples</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="edit_contact_title">Edit Contact</string>
+    <string name="add_contact_title">Add Contact</string>
+
+    <string name="error_save_contact">Error with saving contact</string>
+    <string name="save_contact">Contact saved</string>
+
+    <string name="error_update_contact">Error with updating contact</string>
+    <string name="update_contact">Contact updated</string>
+
+    <string name="error_delete_contact">Error with deleting contact</string>
+    <string name="delete_contact">Contact deleted</string>
+
+    <string name="enter_url">URLを入力してください</string>
+    <string name="clip_label">クリップボードにコピー</string>
+    <string name="clipboard_copied">"\"%s\" コピーしました</string>
+    <string name="convert">URLを短縮</string>
+    <string name="converted_url">短縮URL</string>
+    <string name="copy_to_clipboard">クリップボードにコピー</string>
+    <string name="open_web">ブラウザで開く</string>
+    <string name="error_validate_email">URLを正しく入力してください</string>
+
+    <string name="naver_client_id">fImmSnN9zdMt6awAz0MO</string>
+    <string name="naver_api_key">cw1VhvlKYK</string>
+</resources>
